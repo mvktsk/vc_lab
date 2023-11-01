@@ -1,9 +1,9 @@
 1. Create virtual machine in the yandex cloud
--Платформа Intel Ice Lake
--Гарантированная доля vCPU 100%
--vCPU 2
--RAM 4 ГБ
--Объём дискового пространства 500 ГБ
+- Платформа Intel Ice Lake
+- Гарантированная доля vCPU 100%
+- vCPU 2
+- RAM 4 ГБ
+- Объём дискового пространства 500 ГБ
 
 2. Install docker https://docs.docker.com/engine/install/ubuntu/
 
