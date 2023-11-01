@@ -17,4 +17,5 @@ RAM 4 ГБ
 `sudo ln -s /etc/nginx/sites-available/admin.ecom-lab-nsu.ru.conf /etc/nginx/sites-enabled/admin.ecom-lab-nsu.ru.conf`
 
 `sudo ln -s /etc/nginx/sites-available/store.ecom-lab-nsu.ru.conf /etc/nginx/sites-enabled/store.ecom-lab-nsu.ru.conf`
+
 9. Enable websockets in nginx.conf https://learn.microsoft.com/en-us/aspnet/core/signalr/scale?view=aspnetcore-6.0#linux-with-nginx
